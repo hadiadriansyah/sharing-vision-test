@@ -83,7 +83,10 @@ Ikuti langkah-langkah berikut:
 
 ## Panduan request untuk setiap endopoint pada Postman collection
     
-Buka Postman collection disini [https://winter-firefly-531502.postman.co/workspace/New-Team-Workspace~05a330f3-4bbe-4091-85d0-8287c18a9fb6/collection/23565067-dd680d5c-c703-42f6-9ba4-3d5cccdf4c0b?action=share&creator=23565067](https://winter-firefly-531502.postman.co/workspace/New-Team-Workspace~05a330f3-4bbe-4091-85d0-8287c18a9fb6/collection/23565067-dd680d5c-c703-42f6-9ba4-3d5cccdf4c0b?action=share&creator=23565067)
+Buka Postman collection disini [Postman collectiokn sharing vision test](https://winter-firefly-531502.postman.co/workspace/New-Team-Workspace~05a330f3-4bbe-4091-85d0-8287c18a9fb6/collection/23565067-dd680d5c-c703-42f6-9ba4-3d5cccdf4c0b?action=share&creator=23565067)
+
+atau klik link berikut untuk dokumentasi lengkap
+[Dokumentasi](https://winter-firefly-531502.postman.co/workspace/05a330f3-4bbe-4091-85d0-8287c18a9fb6/documentation/23565067-dd680d5c-c703-42f6-9ba4-3d5cccdf4c0b?entity=&branch=&version=)
 
 ## Langkah 4: Front-end (Client)
 
