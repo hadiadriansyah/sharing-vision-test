@@ -30,7 +30,7 @@ Ikuti langkah-langkah berikut:
 
 1. Buka terminal Anda.
 
-2. Jalankan service seperti Apache2, PHP dan MySQL.
+2. Jalankan service seperti Apache2/Nginx, PHP dan MySQL.
 
 3. Buat database dengan nama "article"
 
@@ -94,7 +94,7 @@ Ikuti langkah-langkah berikut:
 
 1. Buka terminal Anda.
 
-2. Jalankan service seperti Apache2, PHP dan MySQL.
+2. Jalankan service seperti Apache2/Nginx, PHP dan MySQL.
 
 3. Buka folder client.
     
@@ -114,7 +114,7 @@ Ikuti langkah-langkah berikut:
     RewriteCond %{REQUEST_FILENAME} !-f
 
     # Rewrite parameter kompleks menjadi clean URLs
-    RewriteRule ^([\w-]+)/([\w-]+)/?$ index.php?mod=$1 [QSA,L]
+    RewriteRule ^([\w-]+)?$ index.php?mod=$1 [QSA,L]
 
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME} !-f

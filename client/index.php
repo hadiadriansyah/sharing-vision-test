@@ -1,5 +1,5 @@
 <?php
-  $base_url = 'http://server.local/sharing-vision-test/client/';
+  $base_url = 'http://localhost/sharing-vision-test/client/';
 
   $request  = $_SERVER['REQUEST_URI'];
   $pageDir  = '/pages/';

@@ -6,7 +6,7 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
 
 # Rewrite parameter kompleks menjadi clean URLs
-RewriteRule ^([\w-]+)/([\w-]+)/?$ index.php?mod=$1 [QSA,L]
+RewriteRule ^([\w-]+)?$ index.php?mod=$1 [QSA,L]
 
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
